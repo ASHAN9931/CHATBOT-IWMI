@@ -69,4 +69,4 @@ htmlcov/
 .tox/
 
 # Allow component build directory
-!streamlit_chat_widget/frontend/build/
+!iwmi_chat_widget/frontend/build/
