@@ -7,7 +7,7 @@ import hashlib
 from uuid import uuid4
 import requests
 import base64
-from iwmi_chat_widget import chat_input_widget
+from streamlit_chat_widget import chat_input_widget
 from streamlit_float import float_init
 import tiktoken
 import logging
